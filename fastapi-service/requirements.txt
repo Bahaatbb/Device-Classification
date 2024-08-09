@@ -1,0 +1,6 @@
+fastapi==0.112.0
+pydantic==1.10.12
+joblib==1.2.0
+numpy==1.26.4
+starlette==0.37.2
+pandas==2.0.3
